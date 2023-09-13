@@ -20,7 +20,7 @@ const About = () => {
                Hi, I'am Quadri Oluwagbemileke Emmanuel.
                A Full-Stack Developer having Specialization 
                in Front-End And Back-End Development,
-               I have a 3+ years of Experience in Web Development.
+               I have a 6month+ of Experience in Web Development.
             </p>
 
             <br />

@@ -20,7 +20,7 @@ const Home = () => {
                     I'm a Full Stack Developer
                 </h2>
                 <p className=' text-gray-500 py-4 pr-20'>
-                    I have 4 years of experience building and
+                    I have 6montn+ of experience building and
                     and designing software.
                     Currently, I love to work on Web Application 
                     using technologies like 
